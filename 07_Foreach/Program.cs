@@ -52,6 +52,13 @@ namespace _07_Foreach
             //}
             //Console.WriteLine(sum);
 
+            //foreach (char c in word)
+            //{
+            //    Console.WriteLine(c);
+            //}
+
+
+
 
 
             #endregion
@@ -83,7 +90,7 @@ namespace _07_Foreach
 
             #endregion
 
-            #region Örnek Sınav sistemi Uygulaması
+            #region Örnek Sınav si#region Örnek Sınav sistemi Uygulaması
 
             //klavyeden öğrenci sayısı öğrencilerin isimleri öğrencilerin sınav notlarını ortalamalarını hesaplayan program
 

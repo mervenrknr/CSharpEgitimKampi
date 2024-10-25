@@ -18,7 +18,7 @@ namespace _08_Methods
             //listeleme ekle sil güncelle gibi işlemlerde bir değişiklik yapıldığında yeniden methodu çağırabilirsin
             //geri değer döndürmeyen metotlara void metotlar denir
 
-            //void CustomerList()//metotu oluşturduk içindekileride belirledik
+            //void CustomerList()//metotu oluşturduk içindekielemanlarıda belirledik
             //{
             //    Console.WriteLine("ali yıldız");
             //    Console.WriteLine("ayşe yıldız");
@@ -27,10 +27,21 @@ namespace _08_Methods
             //}
 
             //CustomerList();
+            //CustomerList();
+            //CustomerList();
+            //CustomerList();
 
             //buradaki satırı yazmamın sebebi metotu çağırmam içindi
             //özellikle geriye değer döndürmeyen metotlar belli işlemleri tekrar etmesinden kurtarmak içinde programlamada önemli bir yere sahiptirler
 
+            //void Sum()
+            //{
+            //    int x = 1, y = 2;
+            //    int z = x + y;
+            //    Console.WriteLine(z);
+            //}
+
+            //Sum();
 
             #endregion
 
