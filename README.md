@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/7460ed3f-c2e2-4f64-ad57-e62cc1101397)
    ➡️➡️➡️C# EĞİTİM KAMPINA YOLCULUK⬅️⬅️⬅️
    -------------------------------------------------------
 Murat Yücedağ hocamızın YouTube üzerinden başlattığı C# eğitim kampında yaptığımız projelerin detaylı konu başlıkları ve içerikleri paylaşılmıştır. 
@@ -39,6 +39,13 @@ Her zamanki gibi syntax yapısını pekiştirmek için basit örneklerle pekişt
 ✅DERS 8:METOTLAR
 ------------------
 Hazır gelen metotların dışında birde kendimiz sıfırdan metotu nasıl ve hangi kurallarla oluşturacağımızı öğrendik. Geriye değer döndüren int paremetleri metotlar sayesinde kullanıcıdan aldığımız sayıları toplatmayı öğrendik.
+
+ ➡️➡️➡️3.CASE
+-----------------------------------------
+✅ Murat Hocamızın anlatımı ve Entity Framework komutları sayesinde veritabanından oluşturduğumuz kodları veritabanında sorgu yazıyormuşcasına c# dilinde yazarak verilerimizin çekilmesini sağladık. İlgili projemiz küçük bir tur işletmesinin verilerini göstermektedir;
+
+![image](https://github.com/user-attachments/assets/54891b8b-558b-48a1-b7a8-79510b167ff5)
+
 
 
 
