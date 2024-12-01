@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7460ed3f-c2e2-4f64-ad57-e62cc1101397)
+
    ➡️➡️➡️C# EĞİTİM KAMPINA YOLCULUK⬅️⬅️⬅️
    -------------------------------------------------------
 Murat Yücedağ hocamızın YouTube üzerinden başlattığı C# eğitim kampında yaptığımız projelerin detaylı konu başlıkları ve içerikleri paylaşılmıştır. 
